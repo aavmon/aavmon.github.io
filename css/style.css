@@ -81,7 +81,7 @@ li a:hover {
 .people {
     display: flex;
     align-items: center;
-    padding-top: 30px;
+    padding-top: 23px;
 }
 .lik {
     display: inline-block;
@@ -114,7 +114,7 @@ li a:hover {
     margin: 0;
 }
 .basic {
-    margin-top: 22px;
+    margin-top: 24px;
     margin-bottom: 0;
     font-size: 20px;
     line-height: 26px;
@@ -125,7 +125,7 @@ li a:hover {
     font-style: italic;
     font-size: 32px;
     line-height: 36px;
-    margin-top: 38px;
+    margin-top: 46px;
     margin-bottom: 0;
 }
 .p2 {
@@ -138,16 +138,16 @@ li a:hover {
 .subtitle2 {
     font-size: 35px;
     line-height: 42px;
-    padding-left: 514px;
-    padding-top: 580px;
+    padding-left: 516px;
+    padding-top: 535px;
     margin-bottom: 0;
 }
 .basic2 {
-    margin-top: 22px;
+    margin-top: 14px;
     margin-bottom: 0;
     font-size: 20px;
     line-height: 26px;
-    padding-right: 57px;
+    adding-right: 59px;
     float: right;
 }
 .quote2 {
@@ -156,9 +156,9 @@ li a:hover {
     font-style: italic;
     font-size: 32px;
     line-height: 36px;
-    padding-left: 60px;
+    padding-left: 56px;
     padding-right: 38px;
-    padding-top: 140px;
+    padding-top: 133px;
     margin: 0;
     float: left;
 }
@@ -173,7 +173,7 @@ li a:hover {
     font-size: 15px;
     line-height: 17px;
     text-align: center;
-    padding-top: 55px;
+    padding-top: 59px;
     padding-right: 80px;
     padding-left: 120px;
     width: 900px
@@ -194,7 +194,7 @@ li a:hover {
     justify-content: space-around;
 }
 .s3 {
-    padding-left: 38px;
+    padding-left: 40px;
     margin: 0;
     justify-content: space-around;
 }
@@ -204,7 +204,7 @@ li a:hover {
     justify-content: space-around;
 }
 .s5 {
-    padding-left: 52px;
+    padding-left: 53px;
     margin: 0;
     justify-content: space-around;
 }
@@ -214,18 +214,18 @@ li a:hover {
     justify-content: space-around;
 }
 .s7 {
-    padding-left: 67px;
+    padding-left: 68px;
     margin: 0;
     justify-content: space-around;
 }
 .s8 {
-    padding-left: 44px;
+    padding-left: 46px;
     margin: 0;
     justify-content: space-around;
 }
 .p4 {
-    padding-top: 55px;
-    padding-left: 60px;
+    padding-top: 52px;
+    padding-left: 59px;
     margin-left: 60px;
 }
 .p5 {
@@ -236,12 +236,12 @@ li a:hover {
 }
 .odi {
     margin: 0;
-    padding-top: 12px;
+    padding-top: 9px;
     font-size: 20px;
     line-height: 26px;
 }
 .a1 {
-    padding-left: 56px;
+    padding-left: 57px;
 }
 .basement {
     display: flex;
@@ -250,7 +250,7 @@ li a:hover {
     padding-top: 31px;
 }
 .map {
-    padding-left: 60px;
+    padding-left: 63px;
     padding-right: 309px;
     font-size: 16px;
     line-height: 26px;
