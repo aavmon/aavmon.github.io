@@ -1,0 +1,272 @@
+@font-face{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 21px;
+    width: 1000px;
+    justify-content: center;
+    margin: auto;
+}
+header {
+    display: flex;
+    align-content: flex-end;
+    width: 1000px;
+    margin-top: 31px;
+    margin-right: 60px;
+    margin-bottom: 33px;
+    margin-left: 60px;
+}
+.wrapper {
+    margin-top: 11px;
+    margin-right: 60px;
+    margin-left: 143px;
+}
+.logo {
+    margin-left: 60px;
+}
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 0;
+}
+.menu > li {
+    padding-left: 25px;
+}
+li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+li a:hover {
+    color: rgba(0, 192, 209, 1);
+}
+.active-button {
+    color: rgb(0, 0, 0);
+    background: rgba(195, 245, 250, 1);
+    padding: 5px 10px;
+    border-radius: 17.5px;
+}
+.lid {
+    width: 880px;
+    background: rgba(237, 254, 255, 1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 44px;
+    padding-bottom: 53px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.tag {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+}
+.title {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 58.09px;
+    margin: 0;
+}
+.paragraph {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    margin-top: 51px;
+    margin-bottom: 0;
+}
+.people {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.lik {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 15px;
+    padding-left: 16px;
+    padding-right: 56px;
+}
+.sh1 {
+    padding-left: 252px;
+    margin-left: 60px;
+    float: right;
+}
+.section1 {
+    background-image: url("../img/8521a5c412fe73fc070ce017c4mk--materialy-dlya-tvorchestva-sherst-wensleydale-neokr-grebennay 1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 1220px;
+    width: 1060px;
+}
+.p1 {
+    padding-top: 53px;
+    padding-left: 60px;
+    margin-left: 60px;
+    padding-right: 376px;
+}
+.subtitle {
+    font-size: 35px;
+    line-height: 42px;
+    margin: 0;
+}
+.basic {
+    margin-top: 22px;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 26px;
+}
+.quote {
+    color: rgba(0, 192, 209, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 32px;
+    line-height: 36px;
+    margin-top: 38px;
+    margin-bottom: 0;
+}
+.p2 {
+    background-image: url("../img/100024377093b0 1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 748px;
+    margin-left: 60px;
+}
+.subtitle2 {
+    font-size: 35px;
+    line-height: 42px;
+    padding-left: 514px;
+    padding-top: 580px;
+    margin-bottom: 0;
+}
+.basic2 {
+    margin-top: 22px;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 26px;
+    padding-right: 57px;
+    float: right;
+}
+.quote2 {
+    color: rgba(0, 192, 209, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 32px;
+    line-height: 36px;
+    padding-left: 60px;
+    padding-right: 38px;
+    padding-top: 140px;
+    margin: 0;
+    float: left;
+}
+.p3 {
+    display: flex;
+    align-content: flex-start;
+    list-style-type: none;
+    align-items: flex-start;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+    text-align: center;
+    padding-top: 55px;
+    padding-right: 80px;
+    padding-left: 120px;
+    width: 900px
+}
+.sher {
+    padding-left: 60px;
+    padding-top: 8px;
+    margin-left: 60px;
+}
+.s1 {
+    padding-left: 23px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s2 {
+    padding-left: 52px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s3 {
+    padding-left: 38px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s4 {
+    padding-left: 52px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s5 {
+    padding-left: 52px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s6 {
+    padding-left: 73px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s7 {
+    padding-left: 67px;
+    margin: 0;
+    justify-content: space-around;
+}
+.s8 {
+    padding-left: 44px;
+    margin: 0;
+    justify-content: space-around;
+}
+.p4 {
+    padding-top: 55px;
+    padding-left: 60px;
+    margin-left: 60px;
+}
+.p5 {
+    padding-left: 63px;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.odi {
+    margin: 0;
+    padding-top: 12px;
+    font-size: 20px;
+    line-height: 26px;
+}
+.a1 {
+    padding-left: 56px;
+}
+.basement {
+    display: flex;
+    align-content: flex-start;
+    list-style-type: none;
+    padding-top: 31px;
+}
+.map {
+    padding-left: 60px;
+    padding-right: 309px;
+    font-size: 16px;
+    line-height: 26px;
+}
+.katalog {
+    padding-right: 74px;
+    font-size: 16px;
+    line-height: 26px;
+}
+.company {
+    padding-right: 74px;
+    font-size: 16px;
+    line-height: 26px;
+}
+.buyers {
+    padding-right: 60px;
+    font-size: 16px;
+    line-height: 26px;
+}
